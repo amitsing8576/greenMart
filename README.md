@@ -28,14 +28,17 @@ To run the GreenMart app locally, follow these steps:
    
 2. Navigate to the project directory:
 
-  cd GreenMart
+    ```bash
+     cd GreenMart
 
 3. Install dependencies:
 
+     ```bash
     flutter pub get
 
 4. Run the app:
 
+    ```bash
    flutter run
 
-5. 
+
