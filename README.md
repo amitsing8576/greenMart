@@ -14,10 +14,11 @@ GreenMart is a mobile application that allows users to select and purchase veget
 
 ## Screenshots
 
-![Screenshot 1](/lib/images/Screenshot_1703496942.png)
-![Screenshot 2](/lib/images/Screenshot_1703496995.png)
-![Screenshot 3](/lib/images/Screenshot_1703497003.png)
-![Screenshot 4](/lib/images/Screenshot_1703497015.png)
+![Screenshot 1](lib/images/Screenshot_1703496942.png)
+![Screenshot 2](lib/images/Screenshot_1703496995.png)
+![Screenshot 3](lib/images/Screenshot_1703497003.png)
+![Screenshot 4](lib/images/Screenshot_1703497015.png)
+
 ## Getting Started
 
 To run the GreenMart app locally, follow these steps:
