@@ -1,16 +1,41 @@
-# first_project
+# GreenMart
 
-A new Flutter project.
+GreenMart is a mobile application that allows users to select and purchase vegetables and fruits conveniently. The app is designed to provide a user-friendly interface for a seamless shopping experience.
+
+## Features
+
+- **Vegetables and Fruits Selection:** Browse through a variety of vegetables and fruits with images and prices per kg.
+
+- **Shopping Cart:** Add selected items to the shopping cart for easy tracking.
+
+- **Checkout:** Review the selected items and proceed to pay for the order.
+
+- **Bill Payment:** View the total bill before completing the purchase.
+
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 2](/screenshots/screenshot2.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the GreenMart app locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/your-username/GreenMart.git
+   
+2. Navigate to the project directory:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  cd GreenMart
+
+3. Install dependencies:
+
+    flutter pub get
+
+4. Run the app:
+
+   flutter run
+
+5. 
